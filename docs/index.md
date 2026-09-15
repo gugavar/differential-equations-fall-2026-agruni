@@ -13,7 +13,7 @@
 
 - 📄 [სილაბუსი](https://drive.google.com/file/d/1wsG650pCLFhd54ssGSIM5L5pElbw_uMf/view?usp=drive_link)
 - 🧪 [MIT Mathlets](https://mathlets.org/mathlets/)
-- 📚 [კიდევ ერთი შუალედური გამოცდა — შუალედური1_3](https://docs.google.com/document/d/1VWRKAxMF8FB0HH4uNKApLrYCXrJigLhv/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+
 
 ---
 
