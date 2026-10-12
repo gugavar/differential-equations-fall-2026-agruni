@@ -16,6 +16,27 @@
 
 
 ---
+
+### ლექცია 7/8 — გათბობა-გაგრილების სისტემები; მეორე რიგის დიფერენციალური განტოლებები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1Qu3nHlYpozMrf0dJ0iQkJIzpF5Cr_s0M/view?usp=drive_link)
+- 📝 დავალება: [1] წიგნიდან წაიკითხეთ თავები 3.1–3.5 და ამოხსენით ამოცანები:
+  - გათბობა-გაგრილების ამოცანები: გვერდი 129: 3, 4, 5, 6, 9, 12, 13, 15, 16;
+  - ნიუტონის მექანიკის ამოცანები: გვერდი 137: 7, 8, 13, 21, 24, 25;
+  - ზუსტი დიფერენციალური განტოლებების ამოხსნა მაინტეგრირებელი მამრავლის გამოყენებით: გვერდი 91: 13, 14.
+
+#### MATLAB რესურსები
+
+- 💻 [Online MATLAB](https://matlab.mathworks.com/)
+- 💻 [MATLAB-ის საინსტალაციო](https://drive.google.com/file/d/1dVhMLdxqHvkRvzzD3VJR2MYY2AdcDAlC/view?usp=share_link)
+- 📄 [MATLAB-ის ბიბლიოთეკების ჩამონათვალი](https://docs.google.com/document/d/1C5lnrVVXVjC45lYR1gReoArXc8WiB7p_pK9Y-UI2RAM/edit?usp=share_link)
+
+#### წინა წლების პირველი შუალედური გამოცდები
+
+- 📚 [შუალედური 1_1](https://docs.google.com/document/d/1jt9ji0eBt0d4jdFx_HAFv-k71SyEL_Hb/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+- 📚 [შუალედური 1_2](https://docs.google.com/document/d/1FooMH2NlBQu5m4YUX76Da6ePkq3pJ7Y8/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+
+
 ### ლექცია 5/6 — ზუსტი დიფერენციალური განტოლებები და მაინტეგრირებელი მამრავლის მეთოდი
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1E1RHJNPObaBQxJ7S5riO1HEQeEVzx0fZ/view?usp=drive_link)
