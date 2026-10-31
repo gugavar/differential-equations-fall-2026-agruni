@@ -16,9 +16,14 @@
 
 
 ---
+
+#### კიდევ რამდენიმე პირველი შუალედური გამოცდის ვარიანტი
+[3](https://docs.google.com/document/d/1tw8goBdEvq9xFfr3jwOijWrNo25lADU-/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [4](https://docs.google.com/document/d/1PlEk_RifWf2qKjWHi5XMfWSvWNjfFH13/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [5](https://docs.google.com/document/d/1QXezQGwozK04uXmjU_KrIJ_UwAQMl7dy/edit?usp=drive_link&ouid=110148669605332798451&rtpof=true&sd=true);
+
+
 ### ლექცია 11/12 — განმეორებადი და კომპლექსური ფესვების შემთხვევა და არა-ერთგვაროვანი განტოლებები
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1Um6JoUhP4ySK5jzYmxHEH-Y9tEb4OlcF/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/125jcRS39ZRrwtjS4ztGI7kgWzNFyzymR/view?usp=drive_link)
 - 📝 დავალება: [1] წიგნიდან წაიკითხეთ თავები 4.3–4.5 და ამოხსენით ამოცანები:
   - მახასიათებელი განტოლების კომპლექსური ფესვების შემთხვევა: თავი 4.3, გვერდები 194–195: 9, 11, 17, 19, 23, 32, 34, 35;
   - განუსაზღვრელი კოეფიციენტების მეთოდი და სუპერპოზიციის პრინციპი: თავები 4.4–4.5, გვერდი 202: 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 25;
