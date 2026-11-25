@@ -16,6 +16,8 @@
 
 
 ---
+- 📚 წინა წლების მეორე შუალედური გამოცდები: [1](https://drive.google.com/file/d/1LKWN6vPDTkVgZWNDYkIzU7t8r5yM_7bU/view?usp=drive_link); [2](https://docs.google.com/document/d/1eMS39_Wq3zHAL7oYVflxcuWNnCVxxjSy/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
+
 ### ლექცია 19/20 — ლაპლასის გარდაქმნა და საწყის პირობებიანი ამოცანები
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/19VdLXENGyhNEJWpY6xMAyc1WU_wOJ1Og/view?usp=drive_link)
